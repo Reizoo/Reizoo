@@ -28,6 +28,7 @@
 - **[NameProtect](https://github.com/Reizoo/NameProtect-Fabric-1.21.4-.11)** *(Java · Fabric 1.21.4)* — client-side nickname & chat filter with custom replacement rules. Hooks player names, tab list, chat, and team displays via Mixin.
 - **[hytaleproject](https://github.com/Reizoo/hytaleproject)** *(Java · Python · TypeScript)* — full Hytale server platform: auth server, mods source tree, game servers, dev tools. Permissions/whitelist/bans config, runbook, action logging.
 - **[Telegram-Cleaner](https://github.com/Reizoo/Telegram-Cleaner)** *(Python · aiohttp)* — mass-ban tool that distributes load across multiple bot tokens, parallel requests, rate-limit aware, resumable state via JSON, CSV output.
+- **[Ayugram-Hider](https://github.com/Reizoo/Ayugram-Hider)** *(C++17 · Win32)* — runtime DLL injection into AyuGram.exe; global `Ctrl+Alt+H` toggles `WDA_EXCLUDEFROMCAPTURE` so the window is invisible in OBS / Discord / Zoom screen-share. `WinEvent` hook auto-cloaks new popups.
 
 > 📂 More repositories pinned below ⬇ &nbsp;·&nbsp; [browse all →](https://github.com/Reizoo?tab=repositories)
 
@@ -42,6 +43,11 @@
 ---
 
 ### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reizoo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reizoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reizoo&theme=tokyonight&hide_border=true" />
