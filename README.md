@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reizoo 👋</h1>
 
 <p align="center">
-  <em>Game-server engineer · Minecraft / Hytale modding · Python automation · async tooling</em>
+  <em>Game-server engineer · Minecraft / Hytale modding · Chromium extensions · Telegram bots · Python async automation · low-level Windows tooling</em>
 </p>
 
 <p align="center">
@@ -16,10 +16,13 @@
 
 ### 🛠 What I do
 
-- 🧩 **Minecraft Fabric modding** — Mixin injection, Loom toolchain, client-side tooling
-- 🌍 **Hytale server stack** — auth servers, mods runtime, server orchestration, dev tools
-- 🐍 **Python async automation** — high-throughput aiohttp pipelines, multi-account parallelization
-- 🔧 **Cross-language ops** — TypeScript / JS frontends, PowerShell scripts, infra glue
+- 🧩 **Minecraft Fabric modding** — Mixin injection, Loom toolchain, client-side tooling, custom render pipeline hooks
+- 🌍 **Hytale server stack** — auth servers, mods runtime, server orchestration, permissions / whitelist / ban systems, dev tools
+- 🌐 **Chromium extension dev** — Manifest V3, `declarativeNetRequest` for network blocking, MAIN-world ↔ isolated-world bridges, reverse-engineering web platform internals (YouTube player API, transcript fingerprinting)
+- 🤖 **Telegram bot engineering** — aiogram 3 with persistent reply keyboards, long-polling + WebSocket bridges to local desktop apps, owner-gated auth, single-process async stacks
+- 🐍 **Python async automation** — high-throughput aiohttp pipelines, multi-account parallelization, rate-limit-aware schedulers, resumable JSON state
+- 🪟 **Low-level Windows tooling** — Win32 + C++17 DLL injection, `SetWinEventHook`, `WDA_EXCLUDEFROMCAPTURE` tricks, global hotkeys
+- 🔧 **Cross-language ops** — TypeScript / JS frontends, PowerShell automation, infra glue between Java / Python / native
 
 ---
 
