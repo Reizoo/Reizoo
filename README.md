@@ -25,6 +25,7 @@
 
 ### 📦 Featured projects
 
+- **[YouTube-Adblocker-Telegram-Control-Panel](https://github.com/Reizoo/YouTube-Adblocker-Telegram-Control-Panel)** *(JavaScript · Python · aiogram)* — Manifest V3 Chromium extension + local Telegram bot bridge. Blocks YT ads (network + DOM + auto-skip with stall watchdog), integrates SponsorBlock, learns per-channel ad transcripts and auto-skips them on future videos. Telegram side: persistent reply keyboard, play/pause toggle, seek, sponsor record, status — driven via YT MAIN-world player API over a localhost WebSocket.
 - **[NameProtect](https://github.com/Reizoo/NameProtect-Fabric-1.21.4-.11)** *(Java · Fabric 1.21.4)* — client-side nickname & chat filter with custom replacement rules. Hooks player names, tab list, chat, and team displays via Mixin.
 - **[hytaleproject](https://github.com/Reizoo/hytaleproject)** *(Java · Python · TypeScript)* — full Hytale server platform: auth server, mods source tree, game servers, dev tools. Permissions/whitelist/bans config, runbook, action logging.
 - **[Telegram-Cleaner](https://github.com/Reizoo/Telegram-Cleaner)** *(Python · aiohttp)* — mass-ban tool that distributes load across multiple bot tokens, parallel requests, rate-limit aware, resumable state via JSON, CSV output.
