@@ -21,7 +21,7 @@
 - 🌐 **Chromium extension dev** — Manifest V3, `declarativeNetRequest` for network blocking, MAIN-world ↔ isolated-world bridges, reverse-engineering web platform internals (YouTube player API, transcript fingerprinting)
 - 🤖 **Telegram bot engineering** — aiogram 3 with persistent reply keyboards, long-polling + WebSocket bridges to local desktop apps, owner-gated auth, single-process async stacks
 - 🐍 **Python async automation** — high-throughput aiohttp pipelines, multi-account parallelization, rate-limit-aware schedulers, resumable JSON state
-- 🪟 **Low-level Windows tooling** — Win32 + C++17 DLL injection, `SetWinEventHook`, `WDA_EXCLUDEFROMCAPTURE` tricks, global hotkeys
+- 🖥 **Low-level Windows tooling** — Win32 + C++17 DLL injection, `SetWinEventHook`, `WDA_EXCLUDEFROMCAPTURE` tricks, global hotkeys
 - 🔧 **Cross-language ops** — TypeScript / JS frontends, PowerShell automation, infra glue between Java / Python / native
 
 ---
