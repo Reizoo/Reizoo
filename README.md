@@ -36,6 +36,7 @@
 - **WordPress theme for a bakery**: a custom block theme the owner can edit without breaking the layout.
 - **[Ayugram-Hider](https://github.com/Reizoo/Ayugram-Hider)**: a small C++ tool that keeps a desktop chat window out of screen recordings and screen shares, toggled with a hotkey.
 - **[YouTube-Adblocker-Telegram-Control-Panel](https://github.com/Reizoo/YouTube-Adblocker-Telegram-Control-Panel)**: a Chrome extension that skips ads and sponsor segments on YouTube, with a Telegram bot as a remote control for play, pause and seek.
+- **[reizedup](https://github.com/Reizoo/reizedup)**: my links page at [reizedup.cc](https://reizedup.cc), with a background video, music, a typing status line and a views counter on Cloudflare Pages.
 - **[Telegram-Cleaner](https://github.com/Reizoo/Telegram-Cleaner)**: a Python tool for moderators that removes spam accounts from large Telegram groups quickly, without hitting Telegram's rate limits.
 
 > 📂 More repositories pinned below ⬇ &nbsp;·&nbsp; [browse all →](https://github.com/Reizoo?tab=repositories)
@@ -66,6 +67,7 @@
 ### 📫 Contact
 
 <p>
+  <a href="https://reizedup.cc"><img src="https://img.shields.io/badge/Links-reizedup.cc-000000?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://t.me/reizedup"><img src="https://img.shields.io/badge/Telegram-@reizedup-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:didigotreizoo@gmail.com"><img src="https://img.shields.io/badge/Email-didigotreizoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Reizoo"><img src="https://img.shields.io/badge/GitHub-Reizoo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
