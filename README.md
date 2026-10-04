@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reizoo 👋</h1>
 
 <p align="center">
-  <em>Web developer for small businesses · White-label web builds for agencies · Game-server engineer · Minecraft / Hytale modding · Chromium extensions · Telegram bots · Python async automation · low-level Windows tooling</em>
+  <em>Websites for small businesses and agencies · Game-server engineer · Minecraft / Hytale modding · Chromium extensions · Telegram bots · Python async automation · low-level Windows tooling</em>
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ### 🛠 What I do
 
-- 🌐 **Websites for local businesses** — I design and build websites for cafés, butchers, garages, salons and shops, and give every owner a simple editor so they can change their hours, menu and photos themselves
-- 🤝 **White-label builds for agencies** — I build websites for small agencies under their own brand, from landing pages to full WordPress sites
-- 🏡 **Booking and event websites** — direct-booking sites for holiday cottages, and wedding websites with RSVP and a shared photo album for guests
-- 🛠 **Fixing what's broken** — expired domains, security warnings, email that stopped working, wrong details on Google
+- 🌐 I build websites for small local businesses: cafés, butchers, garages, salons. Each owner gets a simple editor to change their hours, menu and photos from their phone.
+- 🤝 I also build sites for small agencies under their name, including WordPress.
+- 🏡 Booking sites for holiday cottages, and wedding sites with RSVP and a shared photo album for guests.
+- 🛠 And I fix the boring stuff: expired domains, security warnings, broken email, wrong info on Google.
 - 🧩 **Minecraft Fabric modding** — Mixin injection, Loom toolchain, client-side tooling, custom render pipeline hooks
 - 🌍 **Hytale server stack** — auth servers, mods runtime, server orchestration, permissions / whitelist / ban systems, dev tools
 - 🌐 **Chromium extension dev** — Manifest V3, `declarativeNetRequest` for network blocking, MAIN-world ↔ isolated-world bridges, reverse-engineering web platform internals (YouTube player API, transcript fingerprinting)
@@ -32,10 +32,10 @@
 
 ### 📦 Featured projects
 
-- **York Websites** — my web studio for local businesses: dozens of concept sites, each with its own design, plus an editor the owner can use from their phone.
-- **Book Direct Yorkshire** — websites for holiday-let owners so returning guests can book directly.
-- **Sixpence** — wedding websites with RSVP and a QR photo album that collects every guest's photos in one place.
-- **Marlow Bakery** — a WordPress block theme made for a small bakery, easy for the owner to edit.
+- **Local business websites**: dozens of concept sites, each one designed separately, with an editor for the owner.
+- **Holiday let booking sites**: returning guests book directly instead of through Airbnb.
+- **Wedding sites**: RSVP plus a QR photo album for guests.
+- **WordPress theme for a bakery**: a custom block theme the owner can edit without breaking the layout.
 - **[YouTube-Adblocker-Telegram-Control-Panel](https://github.com/Reizoo/YouTube-Adblocker-Telegram-Control-Panel)** *(JavaScript · Python · aiogram)* — Manifest V3 Chromium extension + local Telegram bot bridge. Blocks YT ads (network + DOM + auto-skip with stall watchdog), integrates SponsorBlock, learns per-channel ad transcripts and auto-skips them on future videos. Telegram side: persistent reply keyboard, play/pause toggle, seek, sponsor record, status — driven via YT MAIN-world player API over a localhost WebSocket.
 - **[NameProtect](https://github.com/Reizoo/NameProtect-Fabric-1.21.4-.11)** *(Java · Fabric 1.21.4)* — client-side nickname & chat filter with custom replacement rules. Hooks player names, tab list, chat, and team displays via Mixin.
 - **[hytaleproject](https://github.com/Reizoo/hytaleproject)** *(Java · Python · TypeScript)* — full Hytale server platform: auth server, mods source tree, game servers, dev tools. Permissions/whitelist/bans config, runbook, action logging.
