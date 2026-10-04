@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reizoo 👋</h1>
 
 <p align="center">
-  <em>Websites for small businesses and agencies · Game-server engineer · Minecraft / Hytale modding · Chromium extensions · Telegram bots · Python async automation · low-level Windows tooling</em>
+  <em>Websites for small businesses and agencies · Minecraft and Hytale modding · Telegram bots · Python</em>
 </p>
 
 <p align="center">
@@ -20,13 +20,11 @@
 - 🤝 I also build sites for small agencies under their name, including WordPress.
 - 🏡 Booking sites for holiday cottages, and wedding sites with RSVP and a shared photo album for guests.
 - 🛠 And I fix the boring stuff: expired domains, security warnings, broken email, wrong info on Google.
-- 🧩 **Minecraft Fabric modding** — Mixin injection, Loom toolchain, client-side tooling, custom render pipeline hooks
-- 🌍 **Hytale server stack** — auth servers, mods runtime, server orchestration, permissions / whitelist / ban systems, dev tools
-- 🌐 **Chromium extension dev** — Manifest V3, `declarativeNetRequest` for network blocking, MAIN-world ↔ isolated-world bridges, reverse-engineering web platform internals (YouTube player API, transcript fingerprinting)
-- 🤖 **Telegram bot engineering** — aiogram 3 with persistent reply keyboards, long-polling + WebSocket bridges to local desktop apps, owner-gated auth, single-process async stacks
-- 🐍 **Python async automation** — high-throughput aiohttp pipelines, multi-account parallelization, rate-limit-aware schedulers, resumable JSON state
-- 🖥 **Low-level Windows tooling** — Win32 + C++17 DLL injection, `SetWinEventHook`, `WDA_EXCLUDEFROMCAPTURE` tricks, global hotkeys
-- 🔧 **Cross-language ops** — TypeScript / JS frontends, PowerShell automation, infra glue between Java / Python / native
+- 🧩 Minecraft mods on Fabric, mostly client-side tools.
+- 🌍 A full Hytale server setup: auth server, mods, permissions, bans and admin tools.
+- 🧪 Chrome extensions.
+- 🤖 Telegram bots in Python.
+- 🐍 Python scripts that automate the dull parts of work.
 
 ---
 
@@ -36,11 +34,8 @@
 - **Holiday let booking sites**: returning guests book directly instead of through Airbnb.
 - **Wedding sites**: RSVP plus a QR photo album for guests.
 - **WordPress theme for a bakery**: a custom block theme the owner can edit without breaking the layout.
-- **[YouTube-Adblocker-Telegram-Control-Panel](https://github.com/Reizoo/YouTube-Adblocker-Telegram-Control-Panel)** *(JavaScript · Python · aiogram)* — Manifest V3 Chromium extension + local Telegram bot bridge. Blocks YT ads (network + DOM + auto-skip with stall watchdog), integrates SponsorBlock, learns per-channel ad transcripts and auto-skips them on future videos. Telegram side: persistent reply keyboard, play/pause toggle, seek, sponsor record, status — driven via YT MAIN-world player API over a localhost WebSocket.
-- **[NameProtect](https://github.com/Reizoo/NameProtect-Fabric-1.21.4-.11)** *(Java · Fabric 1.21.4)* — client-side nickname & chat filter with custom replacement rules. Hooks player names, tab list, chat, and team displays via Mixin.
-- **[hytaleproject](https://github.com/Reizoo/hytaleproject)** *(Java · Python · TypeScript)* — full Hytale server platform: auth server, mods source tree, game servers, dev tools. Permissions/whitelist/bans config, runbook, action logging.
-- **[Telegram-Cleaner](https://github.com/Reizoo/Telegram-Cleaner)** *(Python · aiohttp)* — mass-ban tool that distributes load across multiple bot tokens, parallel requests, rate-limit aware, resumable state via JSON, CSV output.
-- **[Ayugram-Hider](https://github.com/Reizoo/Ayugram-Hider)** *(C++17 · Win32)* — runtime DLL injection into AyuGram.exe; global `Ctrl+Alt+H` toggles `WDA_EXCLUDEFROMCAPTURE` so the window is invisible in OBS / Discord / Zoom screen-share. `WinEvent` hook auto-cloaks new popups.
+- **[NameProtect](https://github.com/Reizoo/NameProtect-Fabric-1.21.4-.11)**: a Fabric mod that hides or replaces player names in chat, the tab list and team displays.
+- **[hytaleproject](https://github.com/Reizoo/hytaleproject)**: a Hytale server platform with its own auth server, mods, game servers and admin tools.
 
 > 📂 More repositories pinned below ⬇ &nbsp;·&nbsp; [browse all →](https://github.com/Reizoo?tab=repositories)
 
