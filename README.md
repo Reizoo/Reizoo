@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reizoo 👋</h1>
 
 <p align="center">
-  <em>Websites for small businesses and agencies · Minecraft and Hytale modding · Telegram bots · Python</em>
+  <em>Websites for small businesses and agencies · Desktop tools in C++ · Telegram bots · Python</em>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fabric_MC-1.21.4-blue?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ---
@@ -20,11 +20,11 @@
 - 🤝 I also build sites for small agencies under their name, including WordPress.
 - 🏡 Booking sites for holiday cottages, and wedding sites with RSVP and a shared photo album for guests.
 - 🛠 And I fix the boring stuff: expired domains, security warnings, broken email, wrong info on Google.
-- 🧩 Minecraft mods on Fabric, mostly client-side tools.
-- 🌍 A full Hytale server setup: auth server, mods, permissions, bans and admin tools.
+- 🖥 Small Windows tools in C++.
 - 🧪 Chrome extensions.
 - 🤖 Telegram bots in Python.
 - 🐍 Python scripts that automate the dull parts of work.
+- 🎮 Game mods and servers in Java, mostly for fun.
 
 ---
 
@@ -34,8 +34,7 @@
 - **Holiday let booking sites**: returning guests book directly instead of through Airbnb.
 - **Wedding sites**: RSVP plus a QR photo album for guests.
 - **WordPress theme for a bakery**: a custom block theme the owner can edit without breaking the layout.
-- **[NameProtect](https://github.com/Reizoo/NameProtect-Fabric-1.21.4-.11)**: a Fabric mod that hides or replaces player names in chat, the tab list and team displays.
-- **[hytaleproject](https://github.com/Reizoo/hytaleproject)**: a Hytale server platform with its own auth server, mods, game servers and admin tools.
+- **[Ayugram-Hider](https://github.com/Reizoo/Ayugram-Hider)**: a small C++ tool that keeps a desktop chat window out of screen recordings and screen shares, toggled with a hotkey.
 
 > 📂 More repositories pinned below ⬇ &nbsp;·&nbsp; [browse all →](https://github.com/Reizoo?tab=repositories)
 
