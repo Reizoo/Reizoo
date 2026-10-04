@@ -74,5 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reizoo&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Reizoo&style=flat-square&color=blue&base=2500" alt="Profile views" />
 </p>
