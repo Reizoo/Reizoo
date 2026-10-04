@@ -35,6 +35,8 @@
 - **Wedding sites**: RSVP plus a QR photo album for guests.
 - **WordPress theme for a bakery**: a custom block theme the owner can edit without breaking the layout.
 - **[Ayugram-Hider](https://github.com/Reizoo/Ayugram-Hider)**: a small C++ tool that keeps a desktop chat window out of screen recordings and screen shares, toggled with a hotkey.
+- **[YouTube-Adblocker-Telegram-Control-Panel](https://github.com/Reizoo/YouTube-Adblocker-Telegram-Control-Panel)**: a Chrome extension that skips ads and sponsor segments on YouTube, with a Telegram bot as a remote control for play, pause and seek.
+- **[Telegram-Cleaner](https://github.com/Reizoo/Telegram-Cleaner)**: a Python tool for moderators that removes spam accounts from large Telegram groups quickly, without hitting Telegram's rate limits.
 
 > 📂 More repositories pinned below ⬇ &nbsp;·&nbsp; [browse all →](https://github.com/Reizoo?tab=repositories)
 
