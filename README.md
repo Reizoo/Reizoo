@@ -28,6 +28,20 @@
 
 ---
 
+### ⭐ Favourite project
+
+<p align="center">
+  <a href="https://reizedup.cc"><img src="https://img.shields.io/badge/reizedup.cc-open%20it-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white" /></a>
+  <a href="https://github.com/Reizoo/reizedup"><img src="https://img.shields.io/badge/source-reizedup-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+**[reizedup](https://github.com/Reizoo/reizedup)** is my own links page and the thing I'm proudest of.
+Black and white video in the background, snow, music after you click in, a status line that types itself
+("last seen: probably awake"), an animated Telegram emoji next to my name, my local time and a views counter.
+One HTML file, no frameworks, running on Cloudflare Pages with a tiny KV counter behind it.
+
+---
+
 ### 📦 Featured projects
 
 - **Local business websites**: dozens of concept sites, each one designed separately, with an editor for the owner.
@@ -36,7 +50,6 @@
 - **WordPress theme for a bakery**: a custom block theme the owner can edit without breaking the layout.
 - **[Ayugram-Hider](https://github.com/Reizoo/Ayugram-Hider)**: a small C++ tool that keeps a desktop chat window out of screen recordings and screen shares, toggled with a hotkey.
 - **[YouTube-Adblocker-Telegram-Control-Panel](https://github.com/Reizoo/YouTube-Adblocker-Telegram-Control-Panel)**: a Chrome extension that skips ads and sponsor segments on YouTube, with a Telegram bot as a remote control for play, pause and seek.
-- **[reizedup](https://github.com/Reizoo/reizedup)**: my links page at [reizedup.cc](https://reizedup.cc), with a background video, music, a typing status line and a views counter on Cloudflare Pages.
 - **[Telegram-Cleaner](https://github.com/Reizoo/Telegram-Cleaner)**: a Python tool for moderators that removes spam accounts from large Telegram groups quickly, without hitting Telegram's rate limits.
 
 > 📂 More repositories pinned below ⬇ &nbsp;·&nbsp; [browse all →](https://github.com/Reizoo?tab=repositories)
