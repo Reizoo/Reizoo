@@ -16,8 +16,8 @@
 
 ### 🛠 What I do
 
-- 🌐 **Websites for local businesses** — I design and build websites for cafés, butchers, garages, salons and shops in York and North Yorkshire, and give every owner a simple editor so they can change their hours, menu and photos themselves
-- 🤝 **White-label builds for agencies** — I build websites for small UK agencies under their own brand, from landing pages to full WordPress sites
+- 🌐 **Websites for local businesses** — I design and build websites for cafés, butchers, garages, salons and shops, and give every owner a simple editor so they can change their hours, menu and photos themselves
+- 🤝 **White-label builds for agencies** — I build websites for small agencies under their own brand, from landing pages to full WordPress sites
 - 🏡 **Booking and event websites** — direct-booking sites for holiday cottages, and wedding websites with RSVP and a shared photo album for guests
 - 🛠 **Fixing what's broken** — expired domains, security warnings, email that stopped working, wrong details on Google
 - 🧩 **Minecraft Fabric modding** — Mixin injection, Loom toolchain, client-side tooling, custom render pipeline hooks
